@@ -1,1 +1,2 @@
 Add your Name,email ID,Phone number and commit to the repo.
+Riddhi shah,kmit.riddhi@gmail.com,7799030255
