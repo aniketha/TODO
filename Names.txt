@@ -1,1 +1,3 @@
 Add your Name,email ID,Phone number and commit to the repo.
+
+Nithya G, kmit.nithya@gmail.com, 7842659855
