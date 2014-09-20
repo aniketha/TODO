@@ -1,1 +1,3 @@
 Add your Name,email ID,Phone number and commit to the repo.
+ 
+M. Satwik Reddy, kmit.satwikreddy@gmail.com, +91 7893548836
