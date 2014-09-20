@@ -1,1 +1,2 @@
-Add your Name,email ID,Phone number and commit to the repo.
+Sandeep 
+kmit.sandeep@gmail.com
