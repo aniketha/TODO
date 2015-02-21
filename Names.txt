@@ -1,5 +1,5 @@
-Tharunya
-kmit.tharunya@gmail.com
+ Govind
+kmit.govind@gmail.com
 Hello World!
 This is for Git Hub Repository.
 
